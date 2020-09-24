@@ -1,4 +1,5 @@
 com\azhu\main\MainTest.class
 com\azhu\utils\HammingUtilsTest.class
+com\azhu\utils\ShortStringExceptionTest.class
 com\azhu\utils\TxtIOUtilsTest.class
 com\azhu\utils\SimHashUtilsTest.class

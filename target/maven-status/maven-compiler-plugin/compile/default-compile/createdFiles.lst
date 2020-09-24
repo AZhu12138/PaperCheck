@@ -1,4 +1,5 @@
 com\azhu\utils\SimHashUtils.class
 com\azhu\utils\TxtIOUtils.class
+com\azhu\utils\ShortStringException.class
 com\azhu\utils\HammingUtils.class
 com\azhu\main\MainPaperCheck.class
