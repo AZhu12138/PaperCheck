@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PaperCheck:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PaperCheck_jar</output-path>
+    <root id="archive" name="PaperCheck.jar">
+      <element id="module-output" name="PaperCheck" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/hankcs/hanlp/portable-1.5.4/hanlp-portable-1.5.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
